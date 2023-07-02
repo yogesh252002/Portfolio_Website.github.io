@@ -12,10 +12,10 @@ body{
     color: #fff;
 }
 #header{
-    width: 1350px;
-    height: 1200px;
-    background-image: url('./Images/background3.png');
-    background-repeat: no-repeat;
+/*     width: 1350px; */
+/*     height: 1200px; */
+/*     background-image: url('./Images/background3.png'); */
+/*     background-repeat/: no-repeat; */
     background-size:relative;
     background-position: center;
     padding-left: 20px;
